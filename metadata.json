@@ -1,0 +1,6 @@
+{
+  "name": "DRIVEE - On-Demand Drivers for Your Car",
+  "description": "Book screened, police-verified professional chauffeurs by the hour to drive your personal car. Live GPS tracking, ₹50L vehicle shield, and instant dispatch in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
